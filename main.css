@@ -1,0 +1,43 @@
+body {
+    background-color: var(--background);
+}
+
+
+.navbar, .navbar code {
+    background-color: var(--navbar-color);
+    color: var(--navbar-text-color);
+}
+
+.footer {
+    background-color: var(--footer-color);
+    height: 5em;
+    color: white; padding-top: 2em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.color1 {
+    color: var(--color1);
+    margin: 50vh 5em 
+}
+
+.contacttext {
+    color: var(--contacttext);
+    margin: 19vh 5em
+}
+
+.telefoon {
+    color: var(--telefoon);
+    margin: 5vh 5em
+}
+
+.email {
+    color: var(--email);
+    margin: 5vh 5em
+}
+
+.discord {
+    color: var(--discord);
+    margin: 5vh 5em 
+}
