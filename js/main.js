@@ -12,3 +12,5 @@ button.addEventListener('click', function(){
         button.textContent = "<Theme: Dark>";
     }
 });
+
+document.documentElement.className = localStorage.getItem('Theme')
