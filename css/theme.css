@@ -3,12 +3,15 @@
     --navbar-text-color: #67FF67;
     --background: #292c35;
     --footer-color: #0f0f0f;
-    --color1: #ffb805;
+    --color1: #ffbb05;
     --color2: #ffb805;
     --contacttext: #ffb805;
     --telefoon: #ffb805;
     --email: #ffb805;
     --discord: #ffb805;
+    --background-calculator: #949494;
+    --button-color: #0f0f0f18;
+    --background-image: #292c35;
 }
 
 .light-theme {
@@ -22,4 +25,7 @@
     --telefoon: #666666;
     --email: #666666;
     --discord: #666666;
+    --background-calculator: #e9e9e9;
+    --button-color: #d1d0d085;
+    --background-image: ##fff;
 }

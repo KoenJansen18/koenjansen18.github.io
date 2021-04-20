@@ -46,3 +46,19 @@ body {
     color: var(--discord);
     margin: 5vh 5em 
 }
+
+.img1 {
+    background-color: var(--background-image);
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+}
+
+.img2 {
+    background-color: var(--background-image);
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+}
