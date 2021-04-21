@@ -20,9 +20,9 @@ body {
 #calculator{
     background-color: var(--background-calculator);
 	width: 320px;
-	height: 510px;
+	height: 520px;
 	margin: 0 auto;
-	top: 150px;
+	top: 110px;
 	position: relative;
 	border-radius: 5px;
 }
