@@ -14,6 +14,15 @@
     --background-image: #292c35;
     --title-color: #dedede;
     --text-color: #e9e9e9;
+    --background-body: #292c35;
+    --background-board: #3b3939;
+    --text-board: #fff;
+    --border-color: #000;
+    --field-border: #484848; 
+    --color3: #fff;
+    --color4: #fff;
+    --color5: #fff;
+    --color6: #fff;
 }
 
 .light-theme {
@@ -32,4 +41,13 @@
     --background-image: #fff;
     --title-color: #292e35;
     --text-color: #0f0f0f0f;
+    --background-body: #f3f3f3;
+    --background-board: #f3f3f3;
+    --text-board: #000;
+    --border-color: #8b8b8b;
+    --field-border: #bebebe;
+    --color3: #000;
+    --color4: #000;
+    --color5: #000;
+    --color6: #000;
 }
